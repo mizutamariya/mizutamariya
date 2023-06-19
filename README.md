@@ -1,4 +1,5 @@
-### Hi there 👋
+### こんにちは👋
+I'm Japanese and I write in Japanese. Because you guys have deepl.　🙏
 
 <!--
 **mizutamariya/mizutamariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
